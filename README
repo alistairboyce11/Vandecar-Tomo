@@ -1,0 +1,19 @@
+README file for Manuscript : "Subduction beneath Laurentia Modified the North American Cratonic Edge: Evidence from P and S wave Tomography" [Paper #2016JB012838] to Journal of Geophysical Research - Solid Earth
+
+This file details how to access the data required in the acknowledgements for AGU Journals.
+
+Included in the tarball are:
+
+1. P+S Summary files containing details on residuals.
+2. P+S Model files - plotable using Freely available Generic Mapping Tools software.
+
+Details on how to process the ref. files (for station statics etc.) are contained within the Guide to the Vandecar Code written by Dr Ian Bastow (VanDecar_guide.pdf). Contact information for obtaining plotting scripts is included within.
+
+Column headers for summary files are as follows:
+
+DIRname, KSTNM, STEL, GCARC, BAZ, AZ, EVDP, IASP91 TT, Pick time with elev correction, delay time, relative delay time, evla, evlo, stla, stlo, relative delay time.
+
+
+
+
+Correct 23/03/2016 A.Boyce (alistair.boyce10@imperial.ac.uk)
